@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there
 
-<!--
-**xiaokyo/xiaokyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">关于我</h2>
 
-Here are some ideas to get you started:
+```javascript
+const Technology = [
+  "javascript",
+  "React",
+  "Vue",
+  "Angular",
+  "Webpack",
+  "Babel",
+  "rollup",
+  "gulp",
+	"Rust",
+  "React Native",
+  "Node"
+]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">浏览次数 :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{xiaokyo}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">语言排行 :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokyo&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaokyo&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>

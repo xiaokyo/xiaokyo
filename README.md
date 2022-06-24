@@ -1,6 +1,6 @@
 # Hi there
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">主页数据 :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaokyo&show_icons=true&theme=synthwave" alt="xiaokyo :: Profile Stats" /></p>
 

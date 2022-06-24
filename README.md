@@ -1,21 +1,11 @@
 # Hi there
-
-<div style="display: flex; justify-content: space-between;">
-	<div>
-		<h4 align="center">主页数据 :musical_keyboard:</h4>
+<h4 align="center">主页数据 :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaokyo&show_icons=true&theme=synthwave" alt="xiaokyo :: Profile Stats" /></p>
-	</div>
-	<div>
-	<h4 align="center">语言排行 :tongue:</h4>
+
+<h4 align="center">语言排行 :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokyo&langs_count=10&theme=tokyonight&layout=compact" alt="xiaokyo :: Top Langs" /></p>
-</div>
-</div>
-
-
-
-
 
 ```javascript
 // 技术栈
